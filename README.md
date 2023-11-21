@@ -1,2 +1,3 @@
 # Netflix-project
-Author- Mohammed Ishaq Chennari
+#clone
+Author- Mohammed {Ishaq Chennari}
